@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Narakorn Deeeyen</h1>
+[<h1 align="center">Hi 👋, I'm Narakorn Deeeyen</h1>
 <h3 align="center">I'm interested in data science and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dearnarakorn&label=Profile%20views&color=0e75b6&style=flat" alt="dearnarakorn" /> </p>
@@ -19,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dearnarakorn&show_icons=true&locale=en" alt="dearnarakorn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dearnarakorn&" alt="dearnarakorn" /></p>
+](https://rahuldkjain.github.io/gh-profile-readme-generator/)
