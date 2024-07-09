@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/narakorn-deeyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narakorn-deeyen" height="30" width="40" /></a>
 <a href="https://kaggle.com/myphatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="myphatu" height="30" width="40" /></a>
 <a href="https://instagram.com/nnn.dear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nnn.dear" height="30" width="40" /></a>
-<a href="www.youtube.com/@NarakornDeeyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@narakorndeeyen" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCkZGLU6amBDjfcwpjPG62Rw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@narakorndeeyen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
