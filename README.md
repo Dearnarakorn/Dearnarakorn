@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narakorn Deeyen</h1>
-<h3 align="center">I'm interested in data science and AI.</h3>
+<h3 align="center">I'm interested in data science, data engineer and AI.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dearnarakorn&label=Profile%20views&color=0e75b6&style=flat" alt="dearnarakorn" /> </p>
