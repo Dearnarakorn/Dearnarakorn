@@ -1,5 +1,3 @@
-Featured Projects ตัดทิ้งได้ ใช้ resume มาแทน — เนื้อหาแน่นพออยู่แล้ว โดยเฉพาะ Super AI Engineer S4 กับ competitions
-
 ## Hi 👋 I'm Dear 🦌
 
 **Data Scientist @ Mitrphol Group** — satellite remote sensing, ML for agriculture, geospatial data pipelines.
