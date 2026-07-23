@@ -63,6 +63,4 @@ B.Sc. Computer Science (First Class Honors), KMITL.
 <a href="https://kaggle.com/myphatu"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCkZGLU6amBDjfcwpjPG62Rw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dearnarakorn&show_icons=true&locale=en&layout=compact&theme=default" alt="dearnarakorn" /></p>
-
 ---
